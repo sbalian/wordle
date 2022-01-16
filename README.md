@@ -1,7 +1,8 @@
 # What should you start with in [Wordle](https://www.powerlanguage.co.uk/wordle/)?
 
-Good guesses are ... according to the minimum average
-[Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance).
+Good guesses are "sores", "sales" and "soles" according to the minimum average
+[Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) for
+5-character words.
 
 See `wordle_best_first_guess.ipynb` for details of the computation.
 
